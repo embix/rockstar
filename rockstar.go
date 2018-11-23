@@ -3,7 +3,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/k0kubun/rockstar/summarizer"
+
+	"github.com/embix/rockstar/summarizer"
 )
 
 func main() {
